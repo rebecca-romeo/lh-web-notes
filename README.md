@@ -2,7 +2,7 @@
 
 
 ## Summary
-Notes taken
+General markup notes, followed by table of contents for weekly/daily notes
 
 ## Create headings of various size
 "#" creates the largest header,
